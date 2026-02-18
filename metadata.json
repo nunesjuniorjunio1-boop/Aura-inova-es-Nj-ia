@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Aura Nj inovações",
+  "description": "Um assistente de IA completo, alimentado pelo Gemini. Possui conversação por voz em tempo real, geração e edição de imagens, criação de vídeos com Veo e raciocínio avançado.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
